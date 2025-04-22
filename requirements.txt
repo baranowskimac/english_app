@@ -5,3 +5,4 @@ openai
 httpx
 python-dotenv
 lxml_html_clean
+nltk

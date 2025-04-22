@@ -14,6 +14,9 @@ import time
 from dotenv import load_dotenv
 import os
 import re
+import nltk
+# Download 'punkt_tab' resource
+nltk.download('punkt_tab')
 
 
 # Load environment variables from .env
