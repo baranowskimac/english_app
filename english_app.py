@@ -6,16 +6,10 @@ from openai import OpenAI, RateLimitError
 import httpx
 import time
 import os
-import base64
-import pandas as pd
 from openai import OpenAI
 import httpx
-from io import StringIO
 import time
-from datetime import datetime
 from openai import RateLimitError
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 import time
 from dotenv import load_dotenv
 import os
